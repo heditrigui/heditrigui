@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heditrigui
 - 👀 I’m interested in CyberSecurity
-- 📫 You can reach me on [<a href="[url](https://www.linkedin.com/in/hedi-trigui/)">Linkedin</a>](https://www.linkedin.com/in/hedi-trigui)
+- 📫 You can reach me on
 
 
 <!---
