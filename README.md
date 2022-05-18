@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @heditrigui
 - 👀 I’m interested in CyberSecurity
-- 📫 You can reach me on : hedi.trigui@esprit.tn
+- 📫 You can reach me on <a href="[url](https://www.linkedin.com/in/hedi-trigui/)">Linkedin</a>
+
 
 <!---
 heditrigui/heditrigui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
